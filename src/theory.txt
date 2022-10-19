@@ -1,0 +1,8 @@
+
+ForwardRef-in-ReactJS =>
+
+jese ham 'Ref' ko use krte hai kisi same file ke input ko change karne ke liye ,like DOM modify kr rahe the
+
+Lekin jab manlo hamara 'button' or "input" dono alag alag file me ho,or tab hame ye changes krna hoto to ham ForwardRef ka use krte hai
+
+react kahta hai ki hame 'Ref' ko use nhi krna chahiye kyuki ye sidhe se DOM ko effect krta hai jisse hamari performance slow ho jati hai
